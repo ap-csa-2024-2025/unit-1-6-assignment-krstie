@@ -35,7 +35,7 @@ Hint: Remember not to just truncate the number - look back at the slides from th
 
 Sample run:
 ```
-Two original numbers:
+(Two original numbers:)
 57.3934
 22.5211
 Answer: 57 + 23 = 80
