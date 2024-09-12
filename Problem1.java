@@ -2,6 +2,12 @@ public class Problem1
 {
   public static void main(String[] args)
   {
-    // insert code here
+    int num = 5;
+    int denom = 20;
+
+
+
+  double x = (double) num / denom;
+  System.out.println(x);
   }
 }
